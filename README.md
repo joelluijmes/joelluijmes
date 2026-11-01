@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-🔭 I’m currently working as an Engineering Manager at [Gynzy](https://www.gynzy.com/nl-nl) (an edtech company), leading a team focused on product development.  
-🌱 I’m currently learning and experimenting with reinforcement learning.  
+🛠️ I build simple solutions to complex problems, working across software, data, cloud and AI.  
+🎒 Currently backpacking, and available for part-time, remote freelance work.  
+🏫 Before this: eight years at [Gynzy](https://www.gynzy.com/nl-nl), most recently as Engineering Manager.  
+🌱 On and off I'm writing [a C compiler in Rust](https://github.com/joelluijmes/crust), just to learn.  
 💬 Ask me about data engineering, cloud infrastructure, Kubernetes, GCP, backend development, distributed systems, and basically anything besides frontend.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joelluijmes/)  
 🎓 I studied Applied Computer Science (BSc) and Data Science (MSc).  
-👨‍💻 I do part-time freelance work in software, data, and cloud engineering.  
+📫 How to reach me: [joell.app](https://joell.app) or [LinkedIn](https://www.linkedin.com/in/joelluijmes/)  
